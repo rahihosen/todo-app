@@ -1,5 +1,4 @@
-```markdown
-```markdown
+# Task Management Application
 ## About the Project
 
 This project is a task management application built using Vue.js for the frontend and a backend server to handle API requests. The application allows users to create, update, delete, and manage their tasks efficiently. It is designed to be user-friendly and responsive, ensuring a seamless experience across devices.
