@@ -53,6 +53,7 @@
                         <span class="icon">🔒</span>
                     </div>
                 </div>
+                
 
                 <!-- Submit -->
                 <button type="submit" class="submit-btn">Sign Up</button>
